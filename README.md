@@ -35,5 +35,5 @@ The Unit Converter App offers a simple yet effective way to perform and manage u
 Thanks!!
 
 Help & Support
-Current Maintainer 
+
 adtechnology22@gmail.com
