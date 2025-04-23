@@ -19,3 +19,17 @@ A splash screen to enhance the visual experience on load.
 A help section guiding users on how to effectively use the app.
 
 The backend is powered by a C# logic layer and a database interface through a helper class (DBHelper.cs) that stores user activity. This structure ensures modularity, maintainability, and ease of future expansion.
+
+
+=> Modules :
+1. Conversion Module
+2. History Module
+3. Settings Module
+4. Help Module
+5. Splash Module
+6. Statistics Module
+7. Database Module
+
+The Unit Converter App offers a simple yet effective way to perform and manage unit conversions online. Future enhancements may include mobile responsiveness and more unit categories. 
+
+Thanks!!
